@@ -1,6 +1,6 @@
 import axios from 'axios';
 import Cookies from 'js-cookie';
-import { Toast } from 'vant';
+// import { Toast } from 'vant';
 
 const BaseURL = 'http://49.235.194.110:9007';
 

@@ -22,7 +22,7 @@ module.exports = {   // 选项
             template: 'public/index.html',        // 在 dist/index.html 的输出文件
             filename: 'index.html',        // 当使用页面 title 选项时，
             // template 中的 title 标签需要是 <title><%= htmlWebpackPlugin.options.title %></title>
-            title: '重大党建平台',        // 在这个页面中包含的块，默认情况下会包含
+            title: '小翼想家',        // 在这个页面中包含的块，默认情况下会包含
             // 提取出来的通用 chunk 和 vendor chunk。
             chunks: ['chunk-vendors', 'chunk-common', 'index']
         },      // 当使用只有入口的字符串格式时，
